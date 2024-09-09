@@ -1,0 +1,148 @@
+/* .hello{
+    background-color: green;
+} */
+
+
+
+.navSize{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.btn{
+    /* display: flex;
+    justify-content: end; */
+}
+
+
+/* FABLAB Font Color */
+.FabText{
+    font-weight: 700;
+    
+}
+
+.SJCOE{
+    margin-right: 10px;
+    font-weight: 700;
+   
+}
+
+
+.red{
+    color: red;
+    
+}
+
+
+.orange{
+    color: rgb(239,115,38);
+    
+}
+
+
+.yellow{
+    color:rgb(225,166,0);
+    
+}
+
+
+.green{
+    color:green;
+    
+}
+
+
+.blue{
+    color:blue;
+    
+}
+
+
+.purple{
+    color:purple;
+    
+}
+
+
+
+
+
+
+
+
+
+#introPyGame{
+   border-radius: 20px;
+}
+
+
+.jNotebook{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+
+.btnColor{
+    background-color:#236473 !important;
+}
+
+.pyGameBtn{
+    margin-top: 1px;
+}
+
+.horizontal{
+    color: gray ;
+}
+
+
+.jNoteSpace{
+    padding-top: 5rem;
+    padding-bottom: 5%;;
+}
+
+.secondRow{
+    margin-top: 3rem;
+}
+
+.centerTxt{
+    text-align: center !important;
+}
+
+.card{
+    height: 625px;
+}
+
+.card-title{
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.card-text{
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer{
+    margin-top: 3rem;
+    
+}
+
+/* .footImgSize{
+    width:25%;
+    height:2px;
+   
+} */
+
+/* .footer {
+    display: block;
+  } */
+
+  .navSizeFoot{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 50%;
+    height: 50%;
+  }
